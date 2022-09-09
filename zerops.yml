@@ -1,0 +1,5 @@
+uceni:
+  build:
+    build:
+      - echo "ahoj"
+    deploy: [ '.' ]
